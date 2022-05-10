@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...vue.js 3  composition API
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Kkitongabenja34@gmail.com
+- 📫 How to reach me ...Kitongabenja34@gmail.com
 
 <!---
 Benjamin-23/Benjamin-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
