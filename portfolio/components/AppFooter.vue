@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <span class=" font-bold underline">@basilicah</span>
+    <div class="bottom-0 absolute justify-center items-center w-full flex">
+        <span></span>
     </div>
 </template>
