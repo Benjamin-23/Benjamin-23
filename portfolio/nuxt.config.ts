@@ -8,6 +8,13 @@ export default defineNuxtConfig({
         public:{ 
             apiBase:'/api'
         }
-    }
+    },
+    css: ['~/assets/css/main.css'],
+    postcss: {
+        plugins: {
+          tailwindcss: {},
+          autoprefixer: {},
+        },
+      },
 
 })

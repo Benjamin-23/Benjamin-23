@@ -1,5 +1,5 @@
 <template>
     <div>
-        <span>@basilicah</span>
+        <span class=" font-bold underline">@basilicah</span>
     </div>
 </template>
