@@ -11,13 +11,14 @@ module.exports = {
     theme: {
       extend: {
         fontFamily:{ 
-          sans:[" Plus Jakarta Sans","sans-serif"],
+          sans:[" poppins"],
           display:[]
         },
         colors:{ 
           blue:{
             100:"#1A0B2E",
-            200:"#7127BA"
+            200:"#7127BA",
+            300:"#693B93"
           }
         }
       },
