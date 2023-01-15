@@ -4,11 +4,11 @@ const appConfig = useAppConfig()
 </script>
 <template>
   <NuxtLayout>
-    <div class="flex mt-12 flex-col  items-center justify-start  gap-4 max-sm:p-4 max-sm:gap-12 w-full ">
-      <!-- me image  -->
+    <div class="flex mt-12 flex-col  items-center justify-start  gap-4 max-sm:p-4 max-sm:gap-12 w-full">
+      <!-- Homre page -->
       <!--  -->
-      <div class="h-[94vh]">
-        <div class="flex justify-center">
+      <div class="h-screen justify-center flex flex-col gap-6 mt-4">
+        <div class="flex justify-center h-1/2">
           <div class="radical-bg justify-center items-center flex">
             <img src="@/assets/images/profile.svg" alt="loading">
           </div>
@@ -27,23 +27,25 @@ const appConfig = useAppConfig()
 
         <!-- Describition  -->
 
-        <div class="text-white flex flex-col gap-6 mt-6">
-          <div class="">
+        <div class="text-white flex flex-col gap-6 items-center justify-center h-1/2 ">
+          <div class="w-1/2">
             <p class="text-2xl text-white font-bold">I'm a frontend Developer.I</p>
             <p class="text-white">Currently, I'm a Software Engineer at</p>
           </div>
+          <div class="w-1/2">
+            <p class="font-light text-xl ">A self-taught UI/UX designer, functioning in the industry
+              for 3+ years now.
+              I make meaningful and delightful digital products that create an equilibrium
+              between user needs and business goals.
+            </p>
+          </div>
 
-          <p class="font-light text-xl">A self-taught UI/UX designer, functioning in the industry
-            for
-            3+ years now.
-            <br> I make meaningful and delightful digital products that create an equilibrium
-            <br> between user needs and business goals.
-          </p>
         </div>
       </div>
+      <!-- working experience -->
       <div id="about">
         <div class="about-radical">
-          <div class="mt-6 flex flex-col gap-3 max-sm:mt-0 max-sm:px-2">
+          <div class="flex flex-col gap-3 max-sm:mt-0 max-sm:px-2">
             <h1 class="text-white text-3xl mb-4">Work Experience</h1>
             <div class="flex flex-col gap-4">
               <div class="flex gap-4 max-sm:flex-col">
@@ -100,18 +102,16 @@ const appConfig = useAppConfig()
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
       <!-- skills  -->
       <div class=" text-center flex flex-col gap-4">
         <p class="text-white text-2xl font-bold">I'm currently looking to join a <span
             class="text-blue-200">cross-functional</span> team <br> <span class=" text-[.7em] font-medium">that values
             improving people's lives through accessible design </span></p>
-            <div class="skills h-full">
-              <img src="@/assets/images/backGround.svg" alt="loading">
-            </div>
+        <div class="skills h-full">
+          <img src="@/assets/images/backGround.svg" alt="loading">
+        </div>
       </div>
     </div>
 
@@ -119,7 +119,6 @@ const appConfig = useAppConfig()
 </template>
 <style scoped>
 #about {
-  margin-top: -30px;
   /* border-top: #763CAC 2px solid; */
   width: 100%;
   display: flex;
@@ -150,6 +149,7 @@ const appConfig = useAppConfig()
   background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
   top: 0;
 }
+
 /* .skills{
   height: 500;
   background-image: url('@/assets/images/backGround.svg');
