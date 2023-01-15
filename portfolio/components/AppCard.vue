@@ -1,7 +1,7 @@
 <template>
 <div class="mb-4">  
-    <div class=" h-36 w-[23em] card">
-        <div class="smallCard w-[23em] h-[8.8em] flex items-center">
+    <div class=" h-36 w-[19.35em] card max-sm:w-[18em]">
+        <div class="smallCard w-[19.35em] h-[8.8em] flex items-center max-sm:w-[18em]">
             <slot></slot>
         </div>
     </div>
