@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benjamin-23
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...vue.js 3  composition API
-- 💞️ I’m looking to collaborate on ...Artemis Team
+- 💞️ I’m looking to collaborate with different teams .
 - 📫 How to reach me ...Kitongabenja34@gmail.com
 
 <!---
