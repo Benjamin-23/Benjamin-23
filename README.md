@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjamin-23
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...vue.js 3  composition API
+- 👀 I’m interested in solving problems with code.
+- 🌱 I’m currently learning ...vue.js 3  composition API, Astro , Nest.js 
 - 💞️ I’m looking to collaborate with different teams .
 - 📫 How to reach me ...Kitongabenja34@gmail.com
 
