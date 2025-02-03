@@ -8,3 +8,4 @@
 Benjamin-23/Benjamin-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Benjamin](https://github.com/user-attachments/assets/706a964c-1105-4352-86bd-ae9b73525428)
