@@ -18,12 +18,17 @@ I'm a Fullstack Developer from Kenya with 5 years of experience in web developme
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40"/>
 </p>
 
 ### Web3
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aptos/aptos-original.svg" alt="aptos" width="40" height="40"/>
+
 </p>
 
 ## 📊 GitHub Stats
@@ -40,4 +45,8 @@ I'm a Fullstack Developer from Kenya with 5 years of experience in web developme
 Benjamin-23/Benjamin-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🤝 Latest Community Update
+
+### Pull Requests Merged
+- Implemented user profile display feature #123
 ![Benjamin](https://github.com/user-attachments/assets/706a964c-1105-4352-86bd-ae9b73525428)
