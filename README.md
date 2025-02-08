@@ -26,8 +26,7 @@ I'm a Fullstack Developer from Kenya with 5 years of experience in web developme
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aptos/aptos-original.svg" alt="aptos" width="40" height="40"/>
+
 
 </p>
 
