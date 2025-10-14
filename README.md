@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Benjamin
 
-I'm a Fullstack Developer from Kenya with 5 years of experience in web development and 3 years specializing in Web3 technologies.
+I'm a Fullstack Developer with 7 years of experience in web development and 4 years specializing in Web3 technologies.
 
 ## 🛠️ Tech Stack
 
