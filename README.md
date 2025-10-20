@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Benjamin
 
-I'm a Fullstack Developer with 7 years of experience in web development and 4 years specializing in Web3 technologies.
+Experienced Fullstack Developer (7 yrs) with a deep focus on Web3 and blockchain development (4 yrs).
 
 ## 🛠️ Tech Stack
 
