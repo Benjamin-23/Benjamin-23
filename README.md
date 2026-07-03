@@ -38,7 +38,6 @@ Experienced Fullstack Developer (7 yrs) with a deep focus on Web3 and blockchain
 
 ## 📫 Contact Me
 - Email: Kitongabenja34@gmail.com
-- Location: Kenya 🇰🇪
 
 <!---
 Benjamin-23/Benjamin-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
